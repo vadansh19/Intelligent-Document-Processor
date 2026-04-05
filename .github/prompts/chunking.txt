@@ -1,0 +1,6 @@
+Split the document into semantically meaningful chunks.
+
+Rules:
+- Each chunk ≤ 500 tokens
+- Preserve meaning
+- Avoid breaking sentences

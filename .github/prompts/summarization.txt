@@ -1,0 +1,6 @@
+Summarize the document in a concise way.
+
+Focus:
+- Key entities
+- Important values
+- Actionable insights
