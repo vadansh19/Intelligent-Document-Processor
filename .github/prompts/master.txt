@@ -1,0 +1,141 @@
+Build a production-grade backend system using .NET 8 (ASP.NET Core Web API) for an Intelligent Document Processing and Retrieval-Augmented Generation (RAG) platform.
+
+The system should follow clean architecture principles and be modular, scalable, and extensible.
+
+-----------------------------------
+CORE REQUIREMENTS
+-----------------------------------
+
+1. Architecture:
+- Use Clean Architecture with layers:
+  - API (Controllers)
+  - Application (Business Logic, Interfaces)
+  - Domain (Entities)
+  - Infrastructure (DB, external services)
+  - Separate modules for OCR and RAG
+
+2. Features:
+
+A. Document Upload
+- Endpoint: POST /api/documents/upload
+- Accept PDF/image files
+- Store file locally (initially, S3 later)
+- Save metadata in PostgreSQL
+
+B. Document Tracking
+- Status field: Uploaded, Processing, Completed, Failed
+- Endpoint to check status
+
+C. OCR Processing (Stub initially)
+- Create OCR service interface
+- Mock implementation (real AWS Textract later)
+- Extract text from documents
+
+D. Processing Pipeline
+- Split extracted text into chunks
+- Prepare for embedding generation
+
+E. RAG Pipeline (Basic version)
+- Create interface for embedding service
+- Store embeddings in PostgreSQL (pgvector compatible schema)
+- Create endpoint:
+  POST /api/rag/query
+
+F. Query Flow:
+- Accept user question
+- Return mock response using placeholder logic
+- Structure ready for real LLM integration
+
+-----------------------------------
+TECH STACK
+-----------------------------------
+
+- .NET 8 Web API
+- Entity Framework Core
+- PostgreSQL
+- pgvector-compatible schema
+- Dependency Injection
+- Swagger enabled
+
+-----------------------------------
+DATABASE DESIGN
+-----------------------------------
+
+Tables:
+
+1. Documents:
+- Id (Guid)
+- FileName
+- StorageUrl
+- Status
+- CreatedAt
+
+2. DocumentChunks:
+- Id
+- DocumentId
+- Text
+- Embedding (vector placeholder)
+
+-----------------------------------
+NON-FUNCTIONAL REQUIREMENTS
+-----------------------------------
+
+- Use async/await everywhere
+- Use interfaces for all services
+- Follow SOLID principles
+- Add logging
+- Use DTOs (do not expose entities directly)
+- Proper error handling and HTTP status codes
+
+-----------------------------------
+FOLDER STRUCTURE
+-----------------------------------
+
+src/
+  Api/
+  Application/
+    Interfaces/
+    Services/
+    DTOs/
+  Domain/
+    Entities/
+  Infrastructure/
+    Data/
+    Repositories/
+  OCR/
+  RAG/
+
+-----------------------------------
+DELIVERABLES
+-----------------------------------
+
+- Working .NET solution
+- Controllers, services, interfaces
+- DbContext + migrations
+- Sample endpoints working via Swagger
+- Mock OCR + mock RAG pipeline implemented
+
+-----------------------------------
+IMPORTANT
+-----------------------------------
+
+Do NOT integrate AWS Textract or OpenAI yet.
+Keep those as interfaces and mock implementations.
+
+Focus on:
+- clean architecture
+- extensibility
+- production-ready code structure
+
+Also generate:
+
+1. Background processing design using queues (interface only)
+2. Retry and failure handling strategy
+3. Logging using built-in .NET logging
+4. Separation of concerns between services
+5. Dependency injection setup in Program.cs
+
+Ensure the system is easily extendable for:
+- AWS Textract integration
+- OpenAI / Azure OpenAI RAG pipeline
+- Vector database scaling

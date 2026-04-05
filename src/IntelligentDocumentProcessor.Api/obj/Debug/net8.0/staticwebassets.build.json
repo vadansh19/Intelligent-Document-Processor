@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "do6eNExeVJqnKK/YbvldVH07we5h+9UPbmSjXgpSKmA=",
+  "Source": "IntelligentDocumentProcessor.Api",
+  "BasePath": "_content/IntelligentDocumentProcessor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

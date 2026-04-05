@@ -1,0 +1,12 @@
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\bin\Debug\net8.0\IntelligentDocumentProcessor.Domain.deps.json
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\bin\Debug\net8.0\IntelligentDocumentProcessor.Domain.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\bin\Debug\net8.0\IntelligentDocumentProcessor.Domain.pdb
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.AssemblyInfoInputs.cache
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.AssemblyInfo.cs
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.sourcelink.json
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\refint\IntelligentDocumentProcessor.Domain.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\IntelligentDocumentProcessor.Domain.pdb
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Domain\obj\Debug\net8.0\ref\IntelligentDocumentProcessor.Domain.dll

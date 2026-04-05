@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Infrastructure\\IntelligentDocumentProcessor.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\IntelligentDocumentProcessor.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\IntelligentDocumentProcessor.Application.csproj",
+        "projectName": "IntelligentDocumentProcessor.Application",
+        "projectPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\IntelligentDocumentProcessor.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\IntelligentDocumentProcessor.Domain.csproj": {
+                "projectPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\IntelligentDocumentProcessor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\IntelligentDocumentProcessor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\IntelligentDocumentProcessor.Domain.csproj",
+        "projectName": "IntelligentDocumentProcessor.Domain",
+        "projectPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\IntelligentDocumentProcessor.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Infrastructure\\IntelligentDocumentProcessor.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Infrastructure\\IntelligentDocumentProcessor.Infrastructure.csproj",
+        "projectName": "IntelligentDocumentProcessor.Infrastructure",
+        "projectPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Infrastructure\\IntelligentDocumentProcessor.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\IntelligentDocumentProcessor.Application.csproj": {
+                "projectPath": "C:\\Vadansh's Workspace\\Project\\Intelligent-Document-Processor\\src\\IntelligentDocumentProcessor.Application\\IntelligentDocumentProcessor.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\bin\Debug\net8.0\IntelligentDocumentProcessor.Application.deps.json
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\bin\Debug\net8.0\IntelligentDocumentProcessor.Application.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\bin\Debug\net8.0\IntelligentDocumentProcessor.Application.pdb
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\bin\Debug\net8.0\IntelligentDocumentProcessor.Domain.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\bin\Debug\net8.0\IntelligentDocumentProcessor.Domain.pdb
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.csproj.AssemblyReference.cache
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.AssemblyInfoInputs.cache
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.AssemblyInfo.cs
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.csproj.CoreCompileInputs.cache
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.sourcelink.json
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\Intellig.7003F572.Up2Date
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\refint\IntelligentDocumentProcessor.Application.dll
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\IntelligentDocumentProcessor.Application.pdb
+C:\Vadansh's Workspace\Project\Intelligent-Document-Processor\src\IntelligentDocumentProcessor.Application\obj\Debug\net8.0\ref\IntelligentDocumentProcessor.Application.dll
